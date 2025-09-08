@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
-    "@million/lint": "^1.0.14",
+    "@million/lint": "^0.0.39",
     "@react-router/node": "^7.7.0",
     "@react-router/serve": "^7.7.0",
     "@sentry/profiling-node": "^9.43.0",
