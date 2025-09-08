@@ -1,0 +1,15 @@
+.DS_Store
+.env
+*.log
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+.vite/
+.next/
+out/
+dist/
+build/
+# Million Lint
+.million
