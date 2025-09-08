@@ -1,13 +1,10 @@
 ﻿# Travel Agency Dashboard
 
- A responsive Admin dashboard built with React, Tailwind CSS, and Appwrite for managing travel details and user accounts.
-
+A responsive Admin dashboard built with React, Tailwind CSS, and Appwrite for managing travel details and user accounts.
+Key Points:
 🚀 Delivered a 70% responsive Admin Dashboard supporting real-time analytics and AI-powered trip planning
-
 🤖 Integrated Gemini AI to dynamically generate personalized travel itineraries based on country, travel style, and group type
-
 🔗 Connected Appwrite backend services for authentication, database management, and API handling, ensuring secure and scalable operations
-
 📊 Built interactive charts and UI components with Syncfusion, improving data visualization and enabling a 30% faster decision-making process
 
 ## Features
@@ -23,7 +20,7 @@ React, Vite, Tailwind CSS, Appwrite, Netlify, React Router, Syncfusion
 
 ## Demo
 
-https://travel-agency-dashboard-eaznget4z-angelpovulinmarys-projects.vercel.app
+[link](https://travel-agency-n869-6tohnvujg-angelpovulinmarys-projects.vercel.app/)
 
 ## How to run locally
 
@@ -35,3 +32,4 @@ https://travel-agency-dashboard-eaznget4z-angelpovulinmarys-projects.vercel.app
 
 [LinkedIn](https://www.linkedin.com/in/angel-povulin-mary-j-591627315)
 [Email](angelpovulinmary@gmail.com)
+
